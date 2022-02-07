@@ -1,7 +1,7 @@
 # AffiLog
 
-- 👦 Author: Bhupendra Singh 
-- 🔮 My Github's profile: [@Bhupendra Singh](https://github.com/IIT-Bhupendra)
+- 👦 Author: Ashirwad Shukla
+
 
   
 ## <p style="text-align: center;">Welcome to my project</p>
@@ -28,13 +28,12 @@
 
 ##### <p style="text-align: center; margin-top: 40px">✨ If you wanna contribute to my project, you can follow steps✨</p>
 
-> - Fork my AffiLog project at [AffiLog](https://github.com/IIT-Bhupendra/AffiLog)
+
 > - Clone the project to create your local repository
 > - Commit and push your contribution
 > - Make a pull request so I can review your contribute
 
 ##### <p style="text-align: center; margin-top: 40px">Thank you for coming here 😊</p>
-> 📧 You can also reach out to me via gmail: iitbhu.bhupendra@gmail.com 
 
 
 
